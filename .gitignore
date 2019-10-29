@@ -9,4 +9,4 @@
 .*.swp
 *.backup
 */input
-
+.env/
